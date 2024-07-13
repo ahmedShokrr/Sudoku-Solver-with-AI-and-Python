@@ -21,7 +21,7 @@ This project is a Sudoku solver and graphical user interface (GUI) built using P
 
 Run the main script to start the Sudoku GUI:
 
-```bash
+bash
 python GUI.py
 
 ## Code Overview
