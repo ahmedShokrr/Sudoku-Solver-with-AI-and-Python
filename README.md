@@ -64,11 +64,9 @@ Contains the Sudoku solving algorithm and helper functions.
 
 To see the solver in action, simply run the `GUI.py` script. You will see a Sudoku puzzle, and you can interact with it using the controls described above. The puzzle will automatically validate and solve itself when possible.
 
-## Contributing
 
-Feel free to fork this repository, make your changes, and submit pull requests. Any improvements or bug fixes are welcome.
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License.
 
